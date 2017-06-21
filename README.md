@@ -5,4 +5,4 @@
 
 ### HTTPS
 
-[![](http://i.imgur.com/JIRGA4k.png)](https://www.ssllabs.com/ssltest/analyze.html?d=helma.pbzweihander.me)
+[![](http://i.imgur.com/0XAAakO.png)](https://www.ssllabs.com/ssltest/analyze.html?d=helma.pbzweihander.me)
